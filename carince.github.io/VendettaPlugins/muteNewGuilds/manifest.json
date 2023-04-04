@@ -1,0 +1,1 @@
+{"name":"Mute New Guilds","description":"Automatically mutes newly joined guilds.","authors":[{"name":"carince","id":"818323528755314698"}],"main":"index.js","vendetta":{"icon":"ic_unmute_channel_24px","original":"carince.github.io/VendettaPlugins/muteNewGuilds/"},"hash":"73dd9e7d1fc8e08dcea14dc5a7a0146448533999d4ba04bff0deb710f39cd18d"}
