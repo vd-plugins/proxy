@@ -1,0 +1,5 @@
+(function(n,r){"use strict";async function a(c,p){try{const e=c.find(f=>f.name==="word")?.value?.trim();if(!e)return{content:"Please provide a word to define."};const u=`https://api.urbandictionary.com/v0/define?term=${encodeURIComponent(e)}`,i=await(await fetch(u)).json(),o=i.list?.[0]?.definition;if(!o)return{content:`No definition found for "${e}".`};const s=i.list[0].permalink;return{content:`__Definition for \`${e}\`__
+
+${o}
+
+Source: <${s}>`}}catch(e){return console.error(e),{content:"An error occurred while fetching the definition."}}}let t;var d={onLoad:()=>{t=r.registerCommand({name:"urban",displayName:"urban",description:"Search urban dictionary",displayDescription:"Search urban dictionary",options:[{name:"word",description:"The word you want the definition for",required:!0,type:3,displayName:"word",displayDescription:"The word you want the description for"}],execute:a,applicationId:-1,inputType:1,type:1})},onUnload:()=>{t()}};return n.default=d,Object.defineProperty(n,"__esModule",{value:!0}),n})({},vendetta.commands);
