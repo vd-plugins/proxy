@@ -1,0 +1,1 @@
+(function(e,n,i){"use strict";var o={onLoad:()=>{const a=i.ReactNative.NativeModules.CrashlyticsManager;n.logger.info("explod NOW"),n.plugins.removePlugin(Object.values(n.plugins.plugins).find(l=>l.manifest.name=="ThisWillCrashYourDiscord").id),a.crash()},onUnload:()=>{}};return e.default=o,Object.defineProperty(e,"__esModule",{value:!0}),e})({},vendetta,vendetta.metro.common);
