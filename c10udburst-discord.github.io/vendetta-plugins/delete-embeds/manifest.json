@@ -1,0 +1,1 @@
+{"name":"Delete embeds","description":"Adds a msg sheet option to suppress embeds.","authors":[{"name":"cloudburst","id":"892128204150685769"}],"main":"index.js","vendetta":{"icon":"ic_close_16px","original":"c10udburst-discord.github.io/vendetta-plugins/delete-embeds/"},"hash":"5dcd428e3a7fd743546f906a27398763d310dd28184a5217118b08c12bc3ef44"}
