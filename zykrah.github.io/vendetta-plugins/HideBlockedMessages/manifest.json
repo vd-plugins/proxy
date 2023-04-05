@@ -1,0 +1,1 @@
+{"name":"HideBlockedMessages","description":"A plugin that removes the `X blocked message/s` prompt from chat.","authors":[{"name":"Zykrah","id":"543614592291700748"}],"main":"index.js","vendetta":{"icon":"ic_badge_staff","original":"zykrah.github.io/vendetta-plugins/HideBlockedMessages/"},"hash":"bd3d632388d1e63009448176f1c5eddafd7986bc9ba461409de2cdd8378c907e"}
