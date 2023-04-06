@@ -1,0 +1,1 @@
+{"name":"Show Image Links","description":"Shows image links if the message is just a linked image.","authors":[{"name":"Cynosphere","id":"150745989836308480"}],"main":"index.js","vendetta":{"icon":"ic_link","original":"cynosphere.github.io/VendettaPlugins/ShowImageLinks/"},"hash":"b511f35d3d38d076d3f4e532978199f8eaa6e12610029d1324fa0ef46a1dc7c7"}
