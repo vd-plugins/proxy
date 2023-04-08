@@ -1,0 +1,1 @@
+{"name":"GetToken","description":"Adds the /token command, that displays your current token","authors":[{"name":"meqativ :3","id":"744276454946242723"}],"main":"index.js","vendetta":{"icon":"ic_application_command_24px","original":"meqativ.github.io/dumsane/GetToken/"},"hash":"4b209fc38be74f7bbbc0fdea51351725a3156ff8c650da302de9123a98508dc9"}
