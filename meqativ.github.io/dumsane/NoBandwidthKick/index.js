@@ -1,0 +1,1 @@
+(function(e){"use strict";var n={onLoad(){this.onUnload=vendetta.patcher.before("start",vendetta.metro.findByProps("Timeout").Timeout.prototype,function(t){return t[1].name==="disconnect"&&(t[1]=function(){}),t})}};return e.default=n,Object.defineProperty(e,"__esModule",{value:!0}),e})({});
