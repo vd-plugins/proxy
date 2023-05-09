@@ -1,0 +1,1 @@
+(function(n,o,a,i){"use strict";let t;var r={onLoad:function(){const d=o.findByProps("show","openLazy");t=i.instead("show",d,function(e,u){e?.[0]?.title===a.i18n.Messages.DELETE_MESSAGE?e[0].onConfirm?.():u(...e)})},onUnload:function(){return t?.()}};return n.default=r,Object.defineProperty(n,"__esModule",{value:!0}),n})({},vendetta.metro,vendetta.metro.common,vendetta.patcher);
