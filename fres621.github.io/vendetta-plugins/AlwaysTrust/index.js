@@ -1,0 +1,1 @@
+(function(e,t,o){"use strict";const r=o.findByStoreName("MaskedLinkStore");let n=[];var u={onLoad:function(){n.push(t.before("isTrustedDomain",r,function(){return!0}))},onUnload:function(){for(const a of n)a()}};return e.default=u,Object.defineProperty(e,"__esModule",{value:!0}),e})({},vendetta.patcher,vendetta.metro);
