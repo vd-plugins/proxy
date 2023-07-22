@@ -1,0 +1,1 @@
+{"name":"Compact Mode","description":"Removes message headers for inline usernames","authors":[{"name":"Cynosphere","id":"150745989836308480"}],"main":"index.js","vendetta":{"icon":"icon-thread-browser","original":"cynosphere.github.io/VendettaPlugins/CompactMode/"},"hash":"d3b72d71a1bd7c214711472cd975cb3caf39e5b6f8a9bd6aecc8f0b01d8151c5"}
