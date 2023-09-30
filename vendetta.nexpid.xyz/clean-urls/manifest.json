@@ -1,0 +1,1 @@
+{"name":"CleanURLs","description":"Removes tracking data from links (Vencord port)","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"ic_link","original":"vendetta.nexpid.xyz/clean-urls/"},"hash":"0a3b691d2074f83fbc1a72e1e92fe36db39bb5b0e257ff9aaa23187484698b7c"}
