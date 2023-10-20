@@ -1,0 +1,1 @@
+(setImmediate(async function(){let t="https://vd-plugins.github.io/proxy/"+"maisymoe.github.io/strife/Freemoji/",p=vendetta.plugin.id,s=vendetta.plugins,m=nativeModuleProxy.MMKVManager,o=(await m.getItem(p))??"{}";await m.setItem(t,o);s.removePlugin(p);s.installPlugin(t)}),({onUnload(){}}));
