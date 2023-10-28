@@ -1,1 +1,1 @@
-{"name":"LocalPins","description":"Pin messages locally","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"ic_pins","original":"vendetta.nexpid.xyz/local-pins/"},"hash":"8530294e05dc0ac01ee43250aaf456dc84ace3612d24a62a44ec769564c276f8"}
+{"name":"LocalPins","description":"Adds a button to locally pin a message","authors":[{"name":"nexpid","id":"853550207039832084"}],"main":"index.js","vendetta":{"icon":"ic_pins","original":"vendetta.nexpid.xyz/local-pins/"},"hash":"be8a5996381a818dde5c8e9e31fa5a99f7bf52c86fb09c460640635e4ce02b17"}
