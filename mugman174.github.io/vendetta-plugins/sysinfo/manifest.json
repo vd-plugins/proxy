@@ -1,0 +1,1 @@
+{"name":"System Info","description":"Get system information about your device using /sysinfo.","authors":[{"name":"mugman","id":"601836455006044163"}],"main":"index.js","vendetta":{"icon":"debug","original":"mugman174.github.io/vendetta-plugins/sysinfo/"},"hash":"cfd62a21d197290d6630e071c87d3c375ec30638bef9d66534ce67d98a4d2c66"}
